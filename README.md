@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical)
-
+![img](https://camo.githubusercontent.com/3d672f928bec2ad62eca35323f23907e17557f8df85833573e0a16bccbf6e4c0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966)
 ### 😐 But I'm still wondering...
 
 ```rust
