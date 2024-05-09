@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白&center=true&width=500&height=50&font=Roboto&color=000000" />
 </p>
-
+<div align="center">
+  <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
+<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
+</div>
 
 ### Hi there, I'm kling-zero! 👋
 
