@@ -15,26 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白&center=true&width=500&height=50&font=Roboto" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白&center=true&width=500&height=50&font=Roboto&color=000000" />
 </p>
+
 
 ### Hi there, I'm kling-zero! 👋
 
 ---
 
-🧑🏻‍💻 I'm a Software Developer based in [Your Location].
+🌱 Currently, I'm learning about Web3 and blockchain technology.
 
-🌱 Currently, I'm learning [What you're currently learning].
+👯 I'm looking to collaborate on open-source projects related to Web3 and blockchain development.
 
-👯 I'm looking to collaborate on [What you're interested in collaborating on].
+💬 Ask me about anything related to software development.
 
-💬 Ask me about [What you're knowledgeable about and willing to help with].
+📫 How to reach me: [Visit my website](https://kling-zero.github.io/)
 
-📫 How to reach me: [Your Contact Information].
+😄 Pronouns: He/Him
 
-😄 Pronouns: [Your Pronouns].
+⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
-⚡ Fun fact: [Interesting Fact about Yourself].
 
 ---
 
