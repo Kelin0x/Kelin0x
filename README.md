@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical)
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kling-zero&theme=radical&layout=compact"  />
 
----
 
 ### 📕 Latest Blog Posts:
 
