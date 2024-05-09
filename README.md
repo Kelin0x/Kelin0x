@@ -44,12 +44,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kling-zero&theme=radical&layout=compact"  />
+
 ---
 
 ### 📈 GitHub Stats:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical)
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kling-zero&theme=radical&layout=compact"  />
 
 
 ### 📕 Latest Blog Posts:
