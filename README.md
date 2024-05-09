@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白2&font=Roboto" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白&center=true&width=500&height=50&font=Roboto" />
+</p>
 
 ### Hi there, I'm kling-zero! 👋
 
