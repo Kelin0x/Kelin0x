@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
+📫 How to reach me 📫lei812397@gmail.com📫
+
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
 
