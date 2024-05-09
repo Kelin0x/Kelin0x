@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Your Name]! 👋
+<img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白2&font=Roboto" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
+### Hi there, I'm kling-zero! 👋
+
 ---
 
 🧑🏻‍💻 I'm a Software Developer based in [Your Location].
