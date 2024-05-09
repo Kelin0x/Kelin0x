@@ -54,8 +54,24 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 GitHub Stats:
-🌠[Coding Time](https://wakatime.com/@kling-zero)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical)
 
+### 😐 But I'm still wondering...
+
+```rust
+struct AboutMe;
+
+impl AboutMe {
+    const READING_BOOK: &'static str = "The book of life";
+    const CURRENT_DEGREE: &'static str = "Master";
+    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
+}
+
+trait OpenSource {
+    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
+}
+
+impl OpenSource for AboutMe {}
+```
 
 
