@@ -54,23 +54,4 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical)
 
 
-### 📕 Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](Link_to_your_blog_post)
-- [Blog Post Title 2](Link_to_your_blog_post)
-<!-- BLOG-POST-LIST:END -->
-
-⭐️ [More Blog Posts](Link_to_your_blog)
-
----
-
-### 📺 Latest YouTube Videos:
-
-<!-- YOUTUBE:START -->
-- [Video Title 1](Link_to_your_video)
-- [Video Title 2](Link_to_your_video)
-<!-- YOUTUBE:END -->
-
-▶️ [Subscribe to my YouTube Channel](Link_to_your_youtube_channel)
 
