@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Your Name]! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username.svg?style=social)](https://twitter.com/your_twitter_username)
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 ---
 
 🧑🏻‍💻 I'm a Software Developer based in [Your Location].
