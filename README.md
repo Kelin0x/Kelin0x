@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 ![img](https://camo.githubusercontent.com/3d672f928bec2ad62eca35323f23907e17557f8df85833573e0a16bccbf6e4c0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966)
 ### 😐 But I'm still wondering...
 
+![kling-zero](https://raw.githubusercontent.com/kling-zero/kling-zero/output/github-contribution-grid-snake.svg)
 ```rust
 struct AboutMe;
 
