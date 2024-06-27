@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Hi there, I'm kling-zero! 👋
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
 ---
 
 🌱 Currently, I'm learning about Web3 and blockchain technology.
