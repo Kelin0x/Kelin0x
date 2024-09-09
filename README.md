@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=成长本就是一次盛大的告白&center=true&width=500&height=50&font=Roboto&color=000000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=不要被学术界的思维限制了头脑，不要被程序员的思维限制了想象力&center=true&width=500&height=50&font=Roboto&color=000000" />
 </p>
 <div align="center">
   <img src="https://octodex.github.com/images/justicetocat.jpg" width="320" height="320">
@@ -24,21 +24,17 @@ Here are some ideas to get you started:
 ### Hi there, I'm kling-zero! 👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
 ---
-
-🌱 Currently, I'm learning about Web3 and blockchain technology.
+🌱 Currently, I'm learning about Web3, blockchain technology, and full-stack development.
 
 👯 I'm looking to collaborate on open-source projects related to Web3 and blockchain development.
 
-💬 Ask me about anything related to software development.
-
-📫 How to reach me: [kling的小窝](https://kling-zero.github.io/)
+💻 I'm also focused on enhancing my full-stack development skills.
 
 😄 Pronouns: He/Him
 
 📫 How to reach me 📫lei812397@gmail.com📫
 
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
-
 
 ---
 
