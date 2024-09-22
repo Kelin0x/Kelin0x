@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=不要被学术界的思维限制了头脑，不要被程序员的思维限制了想象力&center=true&width=500&height=50&font=Roboto&color=000000" />
-</p>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="320" height="320">
