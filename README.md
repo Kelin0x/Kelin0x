@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="320" height="320">
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="320" height="320"> -->
-<!--   <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="320" height="320">  -->
-  
-</div>
 
 ### Hi there, I'm kling-zero! 👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
