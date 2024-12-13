@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
+
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
@@ -32,8 +34,6 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kelin0x&theme=github-dark-dimmed&custom_title=Kelin0x-Activity-Graph)](https://github.com/Kelin0x/github-readme-activity-graph)
 
 ### 😐 But I'm still wondering...
-
-![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
 
 ```rust
 struct AboutMe;
