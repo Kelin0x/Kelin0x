@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Life is a delicate balance between order and chaos. Every choice, no matter how small, sends ripples through the future. Even in the darkest moments, transformation is possible — resilience turns uncertainty into endless possibilities">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Centered Image" style="max-width: 100%; height: auto;">
+</div>
 
 ## I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
 
