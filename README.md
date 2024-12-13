@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4999&pause=1000&color=E3D1F7&background=96D1FF00&multiline=true&random=true&width=524&lines=Strive+to+contribute+to+the+open+source+" alt="Typing SVG" /></a>
-
 ### Hi there, I'm 0xKelin 👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
 ---
@@ -26,10 +24,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.s
 💻 I'm also focused on enhancing my full-stack development skills.
 
 👋Love open source and hope to strive in the direction of full - stack development.
-
-😄 Pronouns: He/Him
-
-📫 How to reach me 📫lei812397@gmail.com📫
 
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
