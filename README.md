@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4999&pause=1000&color=E3D1F7&background=96D1FF00&multiline=true&random=true&width=524&lines=Strive+to+contribute+to+the+open+source+" alt="Typing SVG" /></a>
 
-### Hi there, I'm Kling-zero! 👋
+### Hi there, I'm 0xKelin 👋
 You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
 ---
 🌱 Currently, I'm learning about Web3, blockchain technology, and full-stack development.
