@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<div style="display: flex; align-items: center;">
+<img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Profile Image" style="width: 300px; height: auto;">
 
-<!-- 左侧文字部分 -->
-<div style="flex: 1;">
-  
 ## 👋 I'm 0xKelin  
 
 You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt="Visitor Count"> visitor.  
@@ -35,12 +32,7 @@ You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt
 
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
-</div>
 
-<!-- 右侧图片部分 -->
-<img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Profile Image" style="width: 300px; height: auto; margin-left: 20px;">
-
-</div>
 
 
 ---
