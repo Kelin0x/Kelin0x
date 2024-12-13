@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 👋 Love open source and hope to strive in the direction of full - stack development.
 
-⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
+👨‍💻 I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
 ---
 ![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
