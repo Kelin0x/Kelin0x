@@ -48,13 +48,20 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.s
 
 ---
 
-### 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kling-zero&show_icons=true&theme=radical) 
----
+## Github Status
+
+<div>
+  <img src="https://stats.quine.sh/btspoony/topics-over-time?theme=dark" width="49%" alt="btspoony\'s GitHub | Topics Over Time" />
+  <img src="https://stats.quine.sh/btspoony/languages-over-time?theme=dark" width="49%" alt="btspoony\'s GitHub | Languages Over Time" style="float: left;" />
+</div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelin0x&layout=compact&langs_count=8&hide=php&theme=onedark)
+
 
 ### 😐 But I'm still wondering...
 
-![kling-zero](https://raw.githubusercontent.com/kling-zero/kling-zero/output/github-contribution-grid-snake.svg)
+![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
 ```rust
 
 struct AboutMe;
