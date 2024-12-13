@@ -31,6 +31,7 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 
 ---
 
+
 ### 🛠️ Languages and Tools:
 
 ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
@@ -42,6 +43,18 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelin0x&theme=radical&layout=compact"  />
 
+```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+
 ---
 
 ## Github Status
@@ -50,6 +63,7 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 ### 😐 But I'm still wondering...
 
 ![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
+
 ```rust
 
 struct AboutMe;
