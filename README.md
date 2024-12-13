@@ -30,30 +30,6 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-
-### 🛠️ Languages and Tools:
-<div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
-  ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-</div>
-
-### Github Stats:
-<div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true" />
-</div>
-
-</div>
-
----
-
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelin0x&theme=radical&layout=compact"  />
-
----
 
 ### 😐 But I'm still wondering...
 
