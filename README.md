@@ -14,24 +14,44 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Centered Image" style="width: 50%; max-width: 600px; height: auto;">
+<div style="display: flex; align-items: center; height: 100vh; padding: 0 10%;">
+  
+  <!-- 左侧文字部分 -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h1 style="margin: 0;">I'm 0xKelin</h1>
+    <p style="font-size: 18px;">
+      You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt="Visitor Count"> visitor.
+    </p>
+    <hr style="border: none; height: 1px; background: #ccc; margin: 20px 0;">
+    
+    <h2>🌱 Currently Learning:</h2>
+    <ul>
+      <li>Web3, blockchain technology, and full-stack development.</li>
+    </ul>
+    
+    <h2>👯 Collaboration Interests:</h2>
+    <ul>
+      <li>Open-source projects related to Web3 and blockchain development.</li>
+    </ul>
+
+    <h2>💻 Tech Focus:</h2>
+    <ul>
+      <li>Enhancing full-stack development skills.</li>
+    </ul>
+
+    <h2>👋 About Me:</h2>
+    <ul>
+      <li>Passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.</li>
+    </ul>
+  </div>
+
+  <!-- 右侧图片部分 -->
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" 
+         alt="Centered Image" style="width: 80%; max-width: 500px; height: auto;">
+  </div>
+
 </div>
-
-
-## I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
-
-
----
-🌱 Currently, I'm learning about Web3, blockchain technology, and full-stack development.
-
-👯 I'm looking to collaborate on open-source projects related to Web3 and blockchain development.
-
-💻 I'm also focused on enhancing my full-stack development skills.
-
-👋 Love open source and hope to strive in the direction of full - stack development.
-
-👨‍💻 I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
 ---
 ![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
