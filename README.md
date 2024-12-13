@@ -43,6 +43,15 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelin0x&theme=radical&layout=compact"  />
 
+---
+
+## Github Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true)
+
+### 😐 But I'm still wondering...
+
+![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
+
 ```
   ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
@@ -55,14 +64,8 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
                  /___/                /___/       
 ```
 
----
 
-## Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true)
 
-### 😐 But I'm still wondering...
-
-![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
 
 ```rust
 
