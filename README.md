@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+## 👋 I'm 0xKelin .You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt="Visitor Count"> visitor.  
+
 <div align="center">
   <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Profile Image" style="width: 600px; height: auto;">
 </div>
-## 👋 I'm 0xKelin  
-
-You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt="Visitor Count"> visitor.  
-
 ---
 
 🌱 Currently, I'm learning about Web3, blockchain technology, and full-stack development.
