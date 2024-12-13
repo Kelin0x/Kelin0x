@@ -14,20 +14,33 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
+<div style="display: flex; align-items: center;">
+
+<!-- 左侧文字部分 -->
+<div style="flex: 1;">
+  
 ## 👋 I'm 0xKelin  
-You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.  
----
-### 🌱 Currently Learning:
-- Web3, blockchain technology, and full-stack development.
-### 👯 Collaboration Interests:
-- Open-source projects related to Web3 and blockchain development.
-### 💻 Tech Focus:
-- Enhancing full-stack development skills.
-### 👋 About Me:
-- Passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
+
+You are my <img src="https://profile-counter.glitch.me/kling-zero/count.svg" alt="Visitor Count"> visitor.  
+
 ---
 
-<img align="right" src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" width="300" alt="Right Aligned Image">
+🌱 Currently, I'm learning about Web3, blockchain technology, and full-stack development.
+
+👯 I'm looking to collaborate on open-source projects related to Web3 and blockchain development.
+
+💻 I'm also focused on enhancing my full-stack development skills.
+
+👋Love open source and hope to strive in the direction of full - stack development.
+
+⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
+
+</div>
+
+<!-- 右侧图片部分 -->
+<img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Profile Image" style="width: 300px; height: auto; margin-left: 20px;">
+
+</div>
 
 
 ---
