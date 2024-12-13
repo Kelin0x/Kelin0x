@@ -56,6 +56,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.s
 
 ![kling-zero](https://raw.githubusercontent.com/kling-zero/kling-zero/output/github-contribution-grid-snake.svg)
 ```rust
+
 struct AboutMe;
 
 impl AboutMe {
