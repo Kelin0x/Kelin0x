@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling-zero/count.svg) visitor.
@@ -25,50 +24,42 @@ I'm 0xKelin. You are my ![Visitor Count](https://profile-counter.glitch.me/kling
 
 💻 I'm also focused on enhancing my full-stack development skills.
 
-👋Love open source and hope to strive in the direction of full - stack development.
+👋 Love open source and hope to strive in the direction of full - stack development.
 
 ⚡ I'm passionate about learning new things and exploring the vast world of technology to broaden my knowledge and perspectives.
 
 ---
 
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
 ### 🛠️ Languages and Tools:
+<div style="flex: 1; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  ![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+  ![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### Github Stats:
+<div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true" />
+</div>
+
+</div>
+
+---
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelin0x&theme=radical&layout=compact"  />
 
 ---
 
-## Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelin0x&theme=onedark&card_width=500&show_icons=true)
-
 ### 😐 But I'm still wondering...
 
 ![Kelin0x](https://raw.githubusercontent.com/Kelin0x/Kelin0x/output/github-contribution-grid-snake.svg)
 
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
-
-
-
-
 ```rust
-
 struct AboutMe;
 
 impl AboutMe {
@@ -82,6 +73,3 @@ trait OpenSource {
 }
 
 impl OpenSource for AboutMe {}
-```
-
-
