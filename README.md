@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafybeiasisxymd2kfh3xbcwvaxkupna7ks7dg5kqr4vwywh3iopwveles4" alt="Profile Image" style="width: 350px; height: auto;">
+  <img src="https://pink-keen-python-404.mypinata.cloud/ipfs/bafkreiffhyyirgrhbqnitahvyzyttr6vnrxujsg6hbwzbdtt4ezgzwmbtq" alt="Profile Image" style="width: 350px; height: auto;">
 </div>
 
 
